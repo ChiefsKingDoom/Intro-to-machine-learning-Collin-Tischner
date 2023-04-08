@@ -10,5 +10,5 @@ https://drive.google.com/file/d/1V2SM1ocquLb6ZNjGmgSqUr801UOeZGJ9/view?usp=share
 In this assignment we covered the manipulation of arrays using numpy and statistical displays using matplotlib.
 
 Link to video 3:
-
+https://drive.google.com/file/d/1WzoiNcCYiyMiOlJQ62xwJZjear6TKzM3/view?usp=share_link
 In this assignment we covered the manipulation of columns using pandas, as well how to split the data into training and testing set with sklearn.
