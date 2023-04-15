@@ -15,4 +15,4 @@ In this assignment we covered the manipulation of columns using pandas, as well 
 
 Link to video 4:
 https://drive.google.com/file/d/1xq0evhUqMPzyj_hfIN5IOrEWYmBphuzn/view?usp=share_link
-For this assignment, scaling, and using PCA in python were covered.
+For this assignment, scaling, and using PCA in python were explored.
