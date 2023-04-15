@@ -12,3 +12,7 @@ In this assignment we covered the manipulation of arrays using numpy and statist
 Link to video 3:
 https://drive.google.com/file/d/1WzoiNcCYiyMiOlJQ62xwJZjear6TKzM3/view?usp=share_link
 In this assignment we covered the manipulation of columns using pandas, as well how to split the data into training and testing set with sklearn.
+
+Link to video 4:
+https://drive.google.com/file/d/1xq0evhUqMPzyj_hfIN5IOrEWYmBphuzn/view?usp=share_link
+For this assignment, scaling, and using PCA in python were covered.
